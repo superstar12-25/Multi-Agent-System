@@ -1,0 +1,11 @@
+# Multi-Agent Research Pipeline
+# Python 3.10+ recommended
+
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+python-dotenv>=1.0.0
+
+# Optional: for structured output validation
+pydantic>=2.0.0
